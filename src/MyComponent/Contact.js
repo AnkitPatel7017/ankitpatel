@@ -72,7 +72,7 @@ export default class Contact extends Component {
                         </div>
                         <div className="d-flex d-sm-flex justify-content-center text-warning">
                             <div className><img alt="email" src={phone} width="30" height="30" />ap278243@gmail.com</div>
-                            <div className="px-1"><img alt="phone" src={email} width="30" height="30" />+91 8780811158</div>
+                            <div className="px-1"><img alt="phone" src={email} width="30" height="30" />+918780811158</div>
                         </div>
                     </div>
                     <div className="col-sm-12 col-lg-6">
