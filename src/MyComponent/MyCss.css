@@ -1,0 +1,30 @@
+.jumbotron{
+    max-height: 800px;
+    background: url("");
+    background-size: cover;
+    background-color: #212529;
+    background-position: 0.50%;
+}
+.text-end{
+    padding: 50px;
+}
+img{
+    
+    position: relative;
+    animation: mymove 3s;
+  
+  }
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {right: 0px;}
+  }
+  .header img {
+    float: center;
+    width: 60px;
+    height: 60px;
+  }
+
+  
+  
+ 
